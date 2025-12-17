@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>IT Infrastructure & Systems Support</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Active Directory User Management](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Networking & Port Troubleshooting](https://github.com/joshmadakorcc/post-install-config)
+  - [Linux System Administration Basics](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
