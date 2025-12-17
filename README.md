@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>IT Infrastructure & Systems Support</b>
-  - [Active Directory User Management](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Active Directory User Management](https://github.com/JPoole92/Active-Directory-User-Management)
   - [Networking & Port Troubleshooting](https://github.com/joshmadakorcc/post-install-config)
   - [Linux System Administration Basics](https://github.com/joshmadakorcc/ticket-lifecycle)
 
