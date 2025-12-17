@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>IT Infrastructure & Systems Support</b>
-  - [Active Directory User Management](https://github.com/JPoole92/Active-Directory-User-Management)
+  - [Active Directory User Management](https://github.com/JPoole92/Active-Directory-Account-Recovery)
   - [Networking & Port Troubleshooting](https://github.com/JPoole92/Networking-Port-Troubleshooting)
   - [Linux System Administration Basics](https://github.com/JPoole92/Linux-System-Administration-Basics)
 
