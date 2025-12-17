@@ -4,12 +4,12 @@
 
 - <b>IT Infrastructure & Systems Support</b>
   - [Active Directory User Management](https://github.com/JPoole92/Active-Directory-User-Management)
-  - [Networking & Port Troubleshooting](https://github.com/joshmadakorcc/post-install-config)
-  - [Linux System Administration Basics](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Networking & Port Troubleshooting](https://github.com/JPoole92/Networking-Port-Troubleshooting)
+  - [Linux System Administration Basics](https://github.com/JPoole92/Linux-System-Administration-Basics)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="John | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/jpoole92
