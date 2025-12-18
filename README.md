@@ -5,7 +5,7 @@
 - <b>IT Infrastructure & Systems Support</b>
   - [Active Directory Account Recovery](https://github.com/JPoole92/Active-Directory-Account-Recovery)
   - [Networking & Port Troubleshooting](https://github.com/JPoole92/Networking-Port-Troubleshooting)
-  - [Linux System Administration Basics](https://github.com/JPoole92/Linux-System-Administration-Basics)
+  - [Linux User & Service Basics](https://github.com/JPoole92/Linux-User-Service-Basics)
 
 <h2>🤳Connect with me:</h2>
 
